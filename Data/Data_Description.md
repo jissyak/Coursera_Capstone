@@ -31,8 +31,8 @@ The data set provided for this work allows the analysis of a record of about 200
 * Dark - Unknown Lighting         11
 
 3) Speeding -
-*Y     9333 (Means Yes)
-*Remaining are NaN - We will cchange it to N, and consider it as No.
+* Y     9333 (Means Yes)
+* Remaining are NaN - We will cchange it to N, and consider it as No.
 
 4) Collision Type - Values of Collision Type are shown below
 
