@@ -8,58 +8,58 @@ The data set provided for this work allows the analysis of a record of about 200
 
 1) Road Condition - Values of Road condition are shown below
 
-Dry               124510
-Wet                47474
-Unknown            15078
-Ice                 1209
-Snow/Slush          1004
-Other                132
-Standing Water       115
-Sand/Mud/Dirt         75
-Oil                   64
+* Dry               124510
+* Wet                47474
+* Unknown            15078
+* Ice                 1209
+* Snow/Slush          1004
+* Other                132
+* Standing Water       115
+* Sand/Mud/Dirt         75
+* Oil                   64
 
 2) Light Condition - Values of Light condition are shown below
 
-Daylight                    116137
-Dark - Street Lights On      48507
-Unknown                      13473
-Dusk                          5902
-Dawn                          2502
-Dark - No Street Lights       1537
-Dark - Street Lights Off      1199
-Other                          235
-Dark - Unknown Lighting         11
+* Daylight                    116137
+* Dark - Street Lights On      48507
+* Unknown                      13473
+* Dusk                          5902
+* Dawn                          2502
+* Dark - No Street Lights       1537
+* Dark - Street Lights Off      1199
+* Other                          235
+* Dark - Unknown Lighting         11
 
 3) Speeding -
-Y     9333 (Means Yes)
-Remaining are NaN - We will consider it to be no
+*Y     9333 (Means Yes)
+*Remaining are NaN - We will cchange it to N, and consider it as No.
 
 4) Collision Type - Values of Collision Type are shown below
 
-Parked Car    47987
-Angles        34674
-Rear Ended    34090
-Other         23703
-Sideswipe     18609
-Left Turn     13703
-Pedestrian     6608
-Cycles         5415
-Right Turn     2956
-Head On        2024
+* Parked Car    47987
+* Angles        34674
+* Rear Ended    34090
+* Other         23703
+* Sideswipe     18609
+* Left Turn     13703
+* Pedestrian     6608
+* Cycles         5415
+* Right Turn     2956
+* Head On        2024
 
 5) Weather - Values of Weather are shown below
 
-Clear                       111135
-Raining                      33145
-Overcast                     27714
-Unknown                      15091
-Snowing                        907
-Other                          832
-Fog/Smog/Smoke                 569
-Sleet/Hail/Freezing Rain       113
-Blowing Sand/Dirt               56
-Severe Crosswind                25
-Partly Cloudy                    5
+* Clear                       111135
+* Raining                      33145
+* Overcast                     27714
+* Unknown                      15091
+* Snowing                        907
+* Other                          832
+* Fog/Smog/Smoke                 569
+* Sleet/Hail/Freezing Rain       113
+* Blowing Sand/Dirt               56
+* Severe Crosswind                25
+* Partly Cloudy                    5
 
 The data will be cleaned and used so that we can determine which attributes are most common in traffic accidents in order to target prevention at these high-incidence points.
 
